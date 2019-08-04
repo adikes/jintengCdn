@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+*.log
+.env
+.DS_Store
+*.sw
+*.log
+node_modules
+*~
+.htaccess
+packages.json
+dist
